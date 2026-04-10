@@ -3,10 +3,55 @@
     "id": "1",
     "title": "ত্রিভুবনের প্রিয় মুহাম্মদ",
     "lyricist": "কাজী নজরুল ইসলাম",
-    "composer": "কাজী নজরুল ইসলাম", 
+    "composer": "কাজী নজরুল ইসলাম",
     "artist": "আবু রায়হান ও মাহফুজ আলম",
     "category": "Hamd",
     "youtube_id": "oA03cLkNEsg",
+    "thumbnail": "https://img.youtube.com/vi/oA03cLkNEsg/hqdefault.jpg",
     "lyrics": "ত্রিভুবনের প্রিয় মুহাম্মদ এলোরে দুনিয়ায়..."
+  },
+  {
+    "id": "2",
+    "title": "নামাজ আমার জীবনের আলো",
+    "lyricist": "অজানা",
+    "composer": "অজানা",
+    "artist": "মাহফুজ আলম",
+    "category": "Islamic",
+    "youtube_id": "abcd1234xyz",
+    "thumbnail": "https://img.youtube.com/vi/abcd1234xyz/hqdefault.jpg",
+    "lyrics": "নামাজ আমার জীবনের আলো, নামাজে শান্তি পাই..."
+  },
+  {
+    "id": "3",
+    "title": "মদিনার পথে",
+    "lyricist": "অজানা",
+    "composer": "অজানা",
+    "artist": "আবু রায়হান",
+    "category": "Naat",
+    "youtube_id": "xyz98765432",
+    "thumbnail": "https://img.youtube.com/vi/xyz98765432/hqdefault.jpg",
+    "lyrics": "মদিনার পথে চলেছি আমি, নবীর প্রেমে ডুবে..."
+  },
+  {
+    "id": "4",
+    "title": "আল্লাহ তুমি দয়াময়",
+    "lyricist": "অজানা",
+    "composer": "অজানা",
+    "artist": "ইসলামিক দল",
+    "category": "Hamd",
+    "youtube_id": "lmn456opq12",
+    "thumbnail": "https://img.youtube.com/vi/lmn456opq12/hqdefault.jpg",
+    "lyrics": "আল্লাহ তুমি দয়াময়, তুমি পরম করুণাময়..."
+  },
+  {
+    "id": "5",
+    "title": "নবীর প্রেমে হৃদয় ভরে",
+    "lyricist": "অজানা",
+    "composer": "অজানা",
+    "artist": "মাহফুজ আলম",
+    "category": "Naat",
+    "youtube_id": "pqrs7890tuv",
+    "thumbnail": "https://img.youtube.com/vi/pqrs7890tuv/hqdefault.jpg",
+    "lyrics": "নবীর প্রেমে হৃদয় ভরে, চোখে আসে অশ্রু..."
   }
 ]
